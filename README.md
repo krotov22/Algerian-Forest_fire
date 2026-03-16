@@ -101,7 +101,7 @@ Run the application
 Electronics and Communication Engineering (ECE) Student  
 Birla Institute of Technology, Mesra  
 
-Machine Learning Enthusiast | Full Stack Developer  
+Machine Learning Enthusiast  
 
 📧 Email: [bhikams468@gmail.com](mailto:bhikams468@gmail.com)  
 🔗 LinkedIn: [satyansh-singh](https://www.linkedin.com/in/satyansh-singh-567a22260)  
